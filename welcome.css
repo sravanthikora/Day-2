@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: cyan;
+    margin: 20px 15px;
+}
+video{
+    width:100%;
+}
+/* h1{
+    color: red;
+    font-size:1 rem ;
+    font-weight:200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+h1{
+    background-color:yellow;
+    max-width: 200px;
+    padding-left: 10px;
+    margin-left: 20px;
+    padding: 10px 0px 10px 0px;
+}
+p{
+    max-width: 100px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
